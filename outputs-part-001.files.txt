@@ -1,0 +1,613 @@
+outputs\.startup-test-profile\BrowserMetrics\BrowserMetrics-6A7AFA70-5FA0.pma
+outputs\.startup-test-profile\component_crx_cache\metadata.json
+outputs\.startup-test-profile\Crashpad\metadata
+outputs\.startup-test-profile\Crashpad\settings.dat
+outputs\.startup-test-profile\CrashpadMetrics-active.pma
+outputs\.startup-test-profile\Default\Account Web Data
+outputs\.startup-test-profile\Default\Account Web Data-journal
+outputs\.startup-test-profile\Default\Affiliation Database
+outputs\.startup-test-profile\Default\Affiliation Database-journal
+outputs\.startup-test-profile\Default\AutofillAiModelCache\LOCK
+outputs\.startup-test-profile\Default\AutofillAiModelCache\LOG
+outputs\.startup-test-profile\Default\AutofillStrikeDatabase\LOCK
+outputs\.startup-test-profile\Default\AutofillStrikeDatabase\LOG
+outputs\.startup-test-profile\Default\BookmarkMergedSurfaceOrdering
+outputs\.startup-test-profile\Default\BudgetDatabase\LOCK
+outputs\.startup-test-profile\Default\BudgetDatabase\LOG
+outputs\.startup-test-profile\Default\Cache\Cache_Data\data_0
+outputs\.startup-test-profile\Default\Cache\Cache_Data\data_1
+outputs\.startup-test-profile\Default\Cache\Cache_Data\data_2
+outputs\.startup-test-profile\Default\Cache\Cache_Data\data_3
+outputs\.startup-test-profile\Default\Cache\Cache_Data\index
+outputs\.startup-test-profile\Default\Cache\No_Vary_Search\journal.baj
+outputs\.startup-test-profile\Default\Cache\No_Vary_Search\snapshot.baf
+outputs\.startup-test-profile\Default\chrome_cart_db\LOCK
+outputs\.startup-test-profile\Default\chrome_cart_db\LOG
+outputs\.startup-test-profile\Default\ClientCertificates\LOCK
+outputs\.startup-test-profile\Default\ClientCertificates\LOG
+outputs\.startup-test-profile\Default\Code Cache\js\index
+outputs\.startup-test-profile\Default\Code Cache\js\index-dir\the-real-index
+outputs\.startup-test-profile\Default\Code Cache\wasm\index
+outputs\.startup-test-profile\Default\Code Cache\wasm\index-dir\the-real-index
+outputs\.startup-test-profile\Default\commerce_subscription_db\LOCK
+outputs\.startup-test-profile\Default\commerce_subscription_db\LOG
+outputs\.startup-test-profile\Default\DawnGraphiteCache\data_0
+outputs\.startup-test-profile\Default\DawnGraphiteCache\data_1
+outputs\.startup-test-profile\Default\DawnGraphiteCache\data_2
+outputs\.startup-test-profile\Default\DawnGraphiteCache\data_3
+outputs\.startup-test-profile\Default\DawnGraphiteCache\index
+outputs\.startup-test-profile\Default\DawnWebGPUCache\data_0
+outputs\.startup-test-profile\Default\DawnWebGPUCache\data_1
+outputs\.startup-test-profile\Default\DawnWebGPUCache\data_2
+outputs\.startup-test-profile\Default\DawnWebGPUCache\data_3
+outputs\.startup-test-profile\Default\DawnWebGPUCache\index
+outputs\.startup-test-profile\Default\declarative_performance_observer.db
+outputs\.startup-test-profile\Default\declarative_performance_observer.db-journal
+outputs\.startup-test-profile\Default\DIPS
+outputs\.startup-test-profile\Default\discount_infos_db\LOCK
+outputs\.startup-test-profile\Default\discount_infos_db\LOG
+outputs\.startup-test-profile\Default\discounts_db\LOCK
+outputs\.startup-test-profile\Default\discounts_db\LOG
+outputs\.startup-test-profile\Default\engine_allowlist.bf
+outputs\.startup-test-profile\Default\Extension Rules\000003.log
+outputs\.startup-test-profile\Default\Extension Rules\CURRENT
+outputs\.startup-test-profile\Default\Extension Rules\LOCK
+outputs\.startup-test-profile\Default\Extension Rules\LOG
+outputs\.startup-test-profile\Default\Extension Rules\MANIFEST-000001
+outputs\.startup-test-profile\Default\Extension Scripts\000003.log
+outputs\.startup-test-profile\Default\Extension Scripts\CURRENT
+outputs\.startup-test-profile\Default\Extension Scripts\LOCK
+outputs\.startup-test-profile\Default\Extension Scripts\LOG
+outputs\.startup-test-profile\Default\Extension Scripts\MANIFEST-000001
+outputs\.startup-test-profile\Default\Extension State\000003.log
+outputs\.startup-test-profile\Default\Extension State\CURRENT
+outputs\.startup-test-profile\Default\Extension State\LOCK
+outputs\.startup-test-profile\Default\Extension State\LOG
+outputs\.startup-test-profile\Default\Extension State\MANIFEST-000001
+outputs\.startup-test-profile\Default\Favicons
+outputs\.startup-test-profile\Default\Favicons-journal
+outputs\.startup-test-profile\Default\Feature Engagement Tracker\AvailabilityDB\LOCK
+outputs\.startup-test-profile\Default\Feature Engagement Tracker\AvailabilityDB\LOG
+outputs\.startup-test-profile\Default\Feature Engagement Tracker\EventDB\LOCK
+outputs\.startup-test-profile\Default\Feature Engagement Tracker\EventDB\LOG
+outputs\.startup-test-profile\Default\GCM Store\000003.log
+outputs\.startup-test-profile\Default\GCM Store\CURRENT
+outputs\.startup-test-profile\Default\GCM Store\LOCK
+outputs\.startup-test-profile\Default\GCM Store\LOG
+outputs\.startup-test-profile\Default\GCM Store\MANIFEST-000001
+outputs\.startup-test-profile\Default\GPUCache\data_0
+outputs\.startup-test-profile\Default\GPUCache\data_1
+outputs\.startup-test-profile\Default\GPUCache\data_2
+outputs\.startup-test-profile\Default\GPUCache\data_3
+outputs\.startup-test-profile\Default\GPUCache\index
+outputs\.startup-test-profile\Default\heavy_ad_intervention_opt_out.db
+outputs\.startup-test-profile\Default\heavy_ad_intervention_opt_out.db-journal
+outputs\.startup-test-profile\Default\History
+outputs\.startup-test-profile\Default\History-journal
+outputs\.startup-test-profile\Default\Local Storage\leveldb\000003.log
+outputs\.startup-test-profile\Default\Local Storage\leveldb\CURRENT
+outputs\.startup-test-profile\Default\Local Storage\leveldb\LOCK
+outputs\.startup-test-profile\Default\Local Storage\leveldb\LOG
+outputs\.startup-test-profile\Default\Local Storage\leveldb\MANIFEST-000001
+outputs\.startup-test-profile\Default\LOCK
+outputs\.startup-test-profile\Default\LOG
+outputs\.startup-test-profile\Default\Login Data
+outputs\.startup-test-profile\Default\Login Data For Account
+outputs\.startup-test-profile\Default\Login Data For Account-journal
+outputs\.startup-test-profile\Default\Login Data-journal
+outputs\.startup-test-profile\Default\Network Action Predictor
+outputs\.startup-test-profile\Default\Network Action Predictor-journal
+outputs\.startup-test-profile\Default\Network\Cookies
+outputs\.startup-test-profile\Default\Network\Cookies-journal
+outputs\.startup-test-profile\Default\Network\Device Bound Sessions
+outputs\.startup-test-profile\Default\Network\Device Bound Sessions-journal
+outputs\.startup-test-profile\Default\Network\Network Persistent State
+outputs\.startup-test-profile\Default\Network\NetworkDataMigrated
+outputs\.startup-test-profile\Default\Network\Reporting and NEL
+outputs\.startup-test-profile\Default\Network\Reporting and NEL-journal
+outputs\.startup-test-profile\Default\Network\TransportSecurity
+outputs\.startup-test-profile\Default\Network\Trust Tokens
+outputs\.startup-test-profile\Default\Network\Trust Tokens-journal
+outputs\.startup-test-profile\Default\parcel_tracking_db\LOCK
+outputs\.startup-test-profile\Default\parcel_tracking_db\LOG
+outputs\.startup-test-profile\Default\PersistentOriginTrials\LOCK
+outputs\.startup-test-profile\Default\PersistentOriginTrials\LOG
+outputs\.startup-test-profile\Default\Preferences
+outputs\.startup-test-profile\Default\PreferredApps
+outputs\.startup-test-profile\Default\README
+outputs\.startup-test-profile\Default\Safe Browsing Network\NetworkDataMigrated
+outputs\.startup-test-profile\Default\Secure Preferences
+outputs\.startup-test-profile\Default\Segmentation Platform\SegmentInfoDB\LOCK
+outputs\.startup-test-profile\Default\Segmentation Platform\SegmentInfoDB\LOG
+outputs\.startup-test-profile\Default\Segmentation Platform\SignalDB\LOCK
+outputs\.startup-test-profile\Default\Segmentation Platform\SignalDB\LOG
+outputs\.startup-test-profile\Default\Segmentation Platform\SignalStorageConfigDB\LOCK
+outputs\.startup-test-profile\Default\Segmentation Platform\SignalStorageConfigDB\LOG
+outputs\.startup-test-profile\Default\ServerCertificate
+outputs\.startup-test-profile\Default\ServerCertificate-journal
+outputs\.startup-test-profile\Default\Session Storage\000003.log
+outputs\.startup-test-profile\Default\Session Storage\CURRENT
+outputs\.startup-test-profile\Default\Session Storage\LOCK
+outputs\.startup-test-profile\Default\Session Storage\LOG
+outputs\.startup-test-profile\Default\Session Storage\MANIFEST-000001
+outputs\.startup-test-profile\Default\Sessions\Session_13430918003065360
+outputs\.startup-test-profile\Default\Sessions\Tabs_13430918015392263
+outputs\.startup-test-profile\Default\Shared Dictionary\cache\index
+outputs\.startup-test-profile\Default\Shared Dictionary\cache\index-dir\the-real-index
+outputs\.startup-test-profile\Default\Shared Dictionary\db
+outputs\.startup-test-profile\Default\Shared Dictionary\db-journal
+outputs\.startup-test-profile\Default\shared_proto_db\000003.log
+outputs\.startup-test-profile\Default\shared_proto_db\CURRENT
+outputs\.startup-test-profile\Default\shared_proto_db\LOCK
+outputs\.startup-test-profile\Default\shared_proto_db\LOG
+outputs\.startup-test-profile\Default\shared_proto_db\MANIFEST-000001
+outputs\.startup-test-profile\Default\shared_proto_db\metadata\000003.log
+outputs\.startup-test-profile\Default\shared_proto_db\metadata\CURRENT
+outputs\.startup-test-profile\Default\shared_proto_db\metadata\LOCK
+outputs\.startup-test-profile\Default\shared_proto_db\metadata\LOG
+outputs\.startup-test-profile\Default\shared_proto_db\metadata\MANIFEST-000001
+outputs\.startup-test-profile\Default\Shortcuts
+outputs\.startup-test-profile\Default\Shortcuts-journal
+outputs\.startup-test-profile\Default\Site Characteristics Database\000003.log
+outputs\.startup-test-profile\Default\Site Characteristics Database\CURRENT
+outputs\.startup-test-profile\Default\Site Characteristics Database\LOCK
+outputs\.startup-test-profile\Default\Site Characteristics Database\LOG
+outputs\.startup-test-profile\Default\Site Characteristics Database\MANIFEST-000001
+outputs\.startup-test-profile\Default\Sync Data\LevelDB\000003.log
+outputs\.startup-test-profile\Default\Sync Data\LevelDB\CURRENT
+outputs\.startup-test-profile\Default\Sync Data\LevelDB\LOCK
+outputs\.startup-test-profile\Default\Sync Data\LevelDB\LOG
+outputs\.startup-test-profile\Default\Sync Data\LevelDB\MANIFEST-000001
+outputs\.startup-test-profile\Default\Top Sites
+outputs\.startup-test-profile\Default\Top Sites-journal
+outputs\.startup-test-profile\Default\trusted_vault.pb
+outputs\.startup-test-profile\Default\Web Data
+outputs\.startup-test-profile\Default\Web Data-journal
+outputs\.startup-test-profile\extensions_crx_cache\metadata.json
+outputs\.startup-test-profile\first_party_sets.db
+outputs\.startup-test-profile\first_party_sets.db-journal
+outputs\.startup-test-profile\GPUPersistentCache\DawnGraphiteCache\P27VQJWCZTEA4KHQSE2IQBIIQMS5IZPD\cache.db
+outputs\.startup-test-profile\GPUPersistentCache\DawnGraphiteCache\P27VQJWCZTEA4KHQSE2IQBIIQMS5IZPD\cache.db-wal
+outputs\.startup-test-profile\GPUPersistentCache\DawnGraphiteCache\P27VQJWCZTEA4KHQSE2IQBIIQMS5IZPD\cache.journal
+outputs\.startup-test-profile\GrShaderCache\data_0
+outputs\.startup-test-profile\GrShaderCache\data_1
+outputs\.startup-test-profile\GrShaderCache\data_2
+outputs\.startup-test-profile\GrShaderCache\f_000001
+outputs\.startup-test-profile\GrShaderCache\index
+outputs\.startup-test-profile\Last Browser
+outputs\.startup-test-profile\Last Version
+outputs\.startup-test-profile\Local State
+outputs\.startup-test-profile\segmentation_platform\ukm_db
+outputs\.startup-test-profile\ShaderCache\data_0
+outputs\.startup-test-profile\ShaderCache\data_1
+outputs\.startup-test-profile\ShaderCache\data_2
+outputs\.startup-test-profile\ShaderCache\data_3
+outputs\.startup-test-profile\ShaderCache\index
+outputs\.startup-test-profile\Variations
+outputs\build-web-zips.ps1
+outputs\bypassium-admin-hub.zip
+outputs\bypassium-admin-hub\_headers
+outputs\bypassium-admin-hub\account-selector.css
+outputs\bypassium-admin-hub\admin-chat.css
+outputs\bypassium-admin-hub\app.js
+outputs\bypassium-admin-hub\brand-icon.png
+outputs\bypassium-admin-hub\chat-fixes.css
+outputs\bypassium-admin-hub\collaboration.css
+outputs\bypassium-admin-hub\index.html
+outputs\bypassium-admin-hub\preview.png
+outputs\bypassium-admin-hub\README.md
+outputs\bypassium-admin-hub\styles.css
+outputs\bypassium-admin-hub\updates-preview.png
+outputs\bypassium-admin-hub\updates.css
+outputs\bypassium-cloudflare-pages.zip
+outputs\bypassium-messenger-1.0.149.zip
+outputs\bypassium-messenger-5.5.17-rebuild-backup.zip
+outputs\bypassium-messenger-5.5.5.zip
+outputs\bypassium-messenger-backup\_pgbackup\pinegrow_1787044179.json
+outputs\bypassium-messenger-backup\_pgbackup\pinegrow_1787044211.json
+outputs\bypassium-messenger-backup\_pgbackup\pinegrow_1787044220.json
+outputs\bypassium-messenger-backup\_pgbackup\pinegrow_1787044254.json
+outputs\bypassium-messenger-backup\_pgbackup\src\sidepanel\index_1787044254.html
+outputs\bypassium-messenger-backup\_pginfo\fonts.json
+outputs\bypassium-messenger-backup\animation-overhaul-audit.json
+outputs\bypassium-messenger-backup\build.ps1
+outputs\bypassium-messenger-backup\bypassium-chrome-store-assets.zip
+outputs\bypassium-messenger-backup\dist\bypassium-messenger-1.0.148.zip
+outputs\bypassium-messenger-backup\hover-light-results.json
+outputs\bypassium-messenger-backup\liquid-steps-3-4-results.json
+outputs\bypassium-messenger-backup\manifest.json
+outputs\bypassium-messenger-backup\pinegrow.json
+outputs\bypassium-messenger-backup\README.md
+outputs\bypassium-messenger-backup\src\assets\icon-128.png
+outputs\bypassium-messenger-backup\src\assets\icon-16.png
+outputs\bypassium-messenger-backup\src\assets\icon-32.png
+outputs\bypassium-messenger-backup\src\assets\icon-48.png
+outputs\bypassium-messenger-backup\src\assets\icon.svg
+outputs\bypassium-messenger-backup\src\background\service-worker.js
+outputs\bypassium-messenger-backup\src\offscreen\recorder.html
+outputs\bypassium-messenger-backup\src\offscreen\recorder.js
+outputs\bypassium-messenger-backup\src\permissions\camera.html
+outputs\bypassium-messenger-backup\src\permissions\camera.js
+outputs\bypassium-messenger-backup\src\permissions\microphone.css
+outputs\bypassium-messenger-backup\src\permissions\microphone.html
+outputs\bypassium-messenger-backup\src\permissions\microphone.js
+outputs\bypassium-messenger-backup\src\shared\account.js
+outputs\bypassium-messenger-backup\src\shared\crypto.js
+outputs\bypassium-messenger-backup\src\shared\identity.js
+outputs\bypassium-messenger-backup\src\shared\media-store.js
+outputs\bypassium-messenger-backup\src\shared\storage.js
+outputs\bypassium-messenger-backup\src\shared\webrtc.js
+outputs\bypassium-messenger-backup\src\sidepanel\app.js
+outputs\bypassium-messenger-backup\src\sidepanel\index.html
+outputs\bypassium-messenger-backup\src\sidepanel\liquid-glass.js
+outputs\bypassium-messenger-backup\src\sidepanel\premium-glass.css
+outputs\bypassium-messenger-backup\src\sidepanel\styles.css
+outputs\bypassium-messenger-backup\store-assets\generate_store_assets.py
+outputs\bypassium-messenger-backup\store-assets\marquee-promo-1400x560.png
+outputs\bypassium-messenger-backup\store-assets\screenshot-1-messages-1280x800.png
+outputs\bypassium-messenger-backup\store-assets\screenshot-2-chat-1280x800.png
+outputs\bypassium-messenger-backup\store-assets\screenshot-3-discover-1280x800.png
+outputs\bypassium-messenger-backup\store-assets\screenshot-4-content-1280x800.png
+outputs\bypassium-messenger-backup\store-assets\screenshot-5-calls-1280x800.png
+outputs\bypassium-messenger-backup\store-assets\small-promo-440x280.png
+outputs\bypassium-messenger-backup\store-assets\store-icon-128x128.png
+outputs\bypassium-messenger-backup\test-artifacts\audit-01-core.jpg
+outputs\bypassium-messenger-backup\test-artifacts\audit-02-social.jpg
+outputs\bypassium-messenger-backup\test-artifacts\audit-03-reels.jpg
+outputs\bypassium-messenger-backup\test-artifacts\audit-04-editor-design.jpg
+outputs\bypassium-messenger-backup\test-artifacts\audit-05-calls.jpg
+outputs\bypassium-messenger-backup\test-artifacts\auth-360.png
+outputs\bypassium-messenger-backup\test-artifacts\bypassium-final-design-screenshots.zip
+outputs\bypassium-messenger-backup\test-artifacts\bypassium-liquid-glass-screenshots.zip
+outputs\bypassium-messenger-backup\test-artifacts\bypassium-reels-gallery-1.0.138.zip
+outputs\bypassium-messenger-backup\test-artifacts\call-420.png
+outputs\bypassium-messenger-backup\test-artifacts\contact-dialog-360.png
+outputs\bypassium-messenger-backup\test-artifacts\contacts-280.png
+outputs\bypassium-messenger-backup\test-artifacts\contacts-420.png
+outputs\bypassium-messenger-backup\test-artifacts\content-280.png
+outputs\bypassium-messenger-backup\test-artifacts\content-360.png
+outputs\bypassium-messenger-backup\test-artifacts\content-reels-320.png
+outputs\bypassium-messenger-backup\test-artifacts\conversation-320.png
+outputs\bypassium-messenger-backup\test-artifacts\conversation-420.png
+outputs\bypassium-messenger-backup\test-artifacts\create-group-dialog-320.png
+outputs\bypassium-messenger-backup\test-artifacts\design-360.png
+outputs\bypassium-messenger-backup\test-artifacts\design-glass-100-360.png
+outputs\bypassium-messenger-backup\test-artifacts\design-glass-20-360.png
+outputs\bypassium-messenger-backup\test-artifacts\desktop-900.png
+outputs\bypassium-messenger-backup\test-artifacts\discover-280.png
+outputs\bypassium-messenger-backup\test-artifacts\discover-900.png
+outputs\bypassium-messenger-backup\test-artifacts\final-optical-results.json
+outputs\bypassium-messenger-backup\test-artifacts\full-1.0.148.log
+outputs\bypassium-messenger-backup\test-artifacts\glitch-regression-audit.json
+outputs\bypassium-messenger-backup\test-artifacts\group-call-320.png
+outputs\bypassium-messenger-backup\test-artifacts\group-call-420.png
+outputs\bypassium-messenger-backup\test-artifacts\group-members-dialog-320.png
+outputs\bypassium-messenger-backup\test-artifacts\groups-320.png
+outputs\bypassium-messenger-backup\test-artifacts\header-content-final.json
+outputs\bypassium-messenger-backup\test-artifacts\header-polish-audit-final.json
+outputs\bypassium-messenger-backup\test-artifacts\header-polish-audit-final2.json
+outputs\bypassium-messenger-backup\test-artifacts\header-polish-audit-final3.json
+outputs\bypassium-messenger-backup\test-artifacts\header-polish-audit.json
+outputs\bypassium-messenger-backup\test-artifacts\hover-video\frame-0.png
+outputs\bypassium-messenger-backup\test-artifacts\hover-video\frame-1.png
+outputs\bypassium-messenger-backup\test-artifacts\hover-video\frame-2.png
+outputs\bypassium-messenger-backup\test-artifacts\hover-video\frame-3.png
+outputs\bypassium-messenger-backup\test-artifacts\hover-video\frame-4.png
+outputs\bypassium-messenger-backup\test-artifacts\hover-video\frame-5.png
+outputs\bypassium-messenger-backup\test-artifacts\hover-video\frame-6.png
+outputs\bypassium-messenger-backup\test-artifacts\hover-video\frame-7.png
+outputs\bypassium-messenger-backup\test-artifacts\latest-run-1.0.130.json
+outputs\bypassium-messenger-backup\test-artifacts\latest-run.json
+outputs\bypassium-messenger-backup\test-artifacts\latest-test.log
+outputs\bypassium-messenger-backup\test-artifacts\mdn-flower.mp4
+outputs\bypassium-messenger-backup\test-artifacts\media-360.png
+outputs\bypassium-messenger-backup\test-artifacts\member-picker-dialog-280.png
+outputs\bypassium-messenger-backup\test-artifacts\menu-360.png
+outputs\bypassium-messenger-backup\test-artifacts\message-actions-emoji-320.png
+outputs\bypassium-messenger-backup\test-artifacts\messages-320.png
+outputs\bypassium-messenger-backup\test-artifacts\messages-420.png
+outputs\bypassium-messenger-backup\test-artifacts\messages-light-420.png
+outputs\bypassium-messenger-backup\test-artifacts\minimized-call-280.png
+outputs\bypassium-messenger-backup\test-artifacts\minimized-call-360.png
+outputs\bypassium-messenger-backup\test-artifacts\motion-inventory.txt
+outputs\bypassium-messenger-backup\test-artifacts\motion-stack-audit.json
+outputs\bypassium-messenger-backup\test-artifacts\motion-stack-no-flicker-audit.json
+outputs\bypassium-messenger-backup\test-artifacts\motion-stack-slower-audit.json
+outputs\bypassium-messenger-backup\test-artifacts\optical-results.json
+outputs\bypassium-messenger-backup\test-artifacts\pointer-light-360.png
+outputs\bypassium-messenger-backup\test-artifacts\quick-add-280.png
+outputs\bypassium-messenger-backup\test-artifacts\reel-comment-reply-390.png
+outputs\bypassium-messenger-backup\test-artifacts\reel-comments-280.png
+outputs\bypassium-messenger-backup\test-artifacts\reel-composer-320.png
+outputs\bypassium-messenger-backup\test-artifacts\reel-composer-controls-390.png
+outputs\bypassium-messenger-backup\test-artifacts\reel-editor-caption.png
+outputs\bypassium-messenger-backup\test-artifacts\reel-editor-live-360.png
+outputs\bypassium-messenger-backup\test-artifacts\reel-editor-overlay-controls.png
+outputs\bypassium-messenger-backup\test-artifacts\reel-editor-test.log
+outputs\bypassium-messenger-backup\test-artifacts\reel-repair-test.log
+outputs\bypassium-messenger-backup\test-artifacts\reels-1.0.148.log
+outputs\bypassium-messenger-backup\test-artifacts\reels-280.png
+outputs\bypassium-messenger-backup\test-artifacts\reels-390.png
+outputs\bypassium-messenger-backup\test-artifacts\reels-expanded-320.png
+outputs\bypassium-messenger-backup\test-artifacts\reels-focus-280.png
+outputs\bypassium-messenger-backup\test-artifacts\reels-focus-390.png
+outputs\bypassium-messenger-backup\test-artifacts\reels-focus-latest.json
+outputs\bypassium-messenger-backup\test-artifacts\reels-for-you-390.png
+outputs\bypassium-messenger-backup\test-artifacts\reels-sound-on-280.png
+outputs\bypassium-messenger-backup\test-artifacts\refraction-final.json
+outputs\bypassium-messenger-backup\test-artifacts\refraction-results-2.json
+outputs\bypassium-messenger-backup\test-artifacts\refraction-results.json
+outputs\bypassium-messenger-backup\test-artifacts\saved-320.png
+outputs\bypassium-messenger-backup\test-artifacts\settings-360.png
+outputs\bypassium-messenger-backup\test-artifacts\settings-developer-360.png
+outputs\bypassium-messenger-backup\test-artifacts\settings-network-280.png
+outputs\bypassium-messenger-backup\test-artifacts\stacked-story-test.log
+outputs\bypassium-messenger-backup\test-artifacts\step-2-results.json
+outputs\bypassium-messenger-backup\test-artifacts\stories-280.png
+outputs\bypassium-messenger-backup\test-artifacts\stories-visual-results.json
+outputs\bypassium-messenger-backup\test-artifacts\story-comments-280.png
+outputs\bypassium-messenger-backup\test-artifacts\story-composer-360.png
+outputs\bypassium-messenger-backup\test-artifacts\story-viewer-280.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\00-0.00.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\01-0.99.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\02-1.98.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\03-2.97.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\04-3.96.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\05-4.94.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\06-5.93.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\07-6.92.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\08-7.91.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\09-8.90.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\10-9.89.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\11-10.88.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\12-11.77.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\contact-sheet.jpg
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\00-2.25.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\01-2.50.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\02-2.75.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\03-3.00.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\04-3.25.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\05-3.50.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\06-3.75.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\07-4.00.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\08-4.25.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\09-4.50.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\10-6.50.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\11-6.75.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\12-7.00.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\13-7.25.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\14-7.50.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\15-7.75.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\16-8.00.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\17-8.25.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\18-8.50.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\19-8.75.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\20-9.00.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\21-9.25.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\22-9.50.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\23-9.75.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\24-10.00.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\25-10.25.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\26-10.50.png
+outputs\bypassium-messenger-backup\test-artifacts\video-1036\fine\fine-contact.jpg
+outputs\bypassium-messenger-backup\test-artifacts\visual-composer-fix.json
+outputs\bypassium-messenger-backup\test-artifacts\visual-premium-1.0.128.json
+outputs\bypassium-messenger-backup\test-artifacts\visual-premium-1.0.129.log
+outputs\bypassium-messenger-backup\test-artifacts\visual-premium-chat-stress.json
+outputs\bypassium-messenger-backup\test-artifacts\visual-premium-group.json
+outputs\bypassium-messenger-backup\test-artifacts\visual-premium-latest.json
+outputs\bypassium-messenger-backup\test-artifacts\visual-premium-release.json
+outputs\bypassium-messenger-backup\test-artifacts\visual-premium-stress.json
+outputs\bypassium-messenger-backup\test-artifacts\visual-results-1.0.133.json
+outputs\bypassium-messenger-backup\test-artifacts\visual-results.json
+outputs\bypassium-messenger-backup\test-artifacts\visual-shared-comments.json
+outputs\bypassium-messenger-backup\test-artifacts\visual-squished-final.json
+outputs\bypassium-messenger-backup\test-artifacts\visual-squished.json
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\manifest.json
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\assets\icon-128.png
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\assets\icon-16.png
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\assets\icon-32.png
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\assets\icon-48.png
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\assets\icon.svg
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\background\service-worker.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\offscreen\recorder.html
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\offscreen\recorder.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\permissions\camera.html
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\permissions\camera.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\permissions\microphone.css
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\permissions\microphone.html
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\permissions\microphone.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\shared\account.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\shared\crypto.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\shared\identity.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\shared\media-store.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\shared\storage.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\shared\webrtc.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\sidepanel\app.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\sidepanel\index.html
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\sidepanel\liquid-glass.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\sidepanel\premium-glass.css
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\extension\src\sidepanel\styles.css
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\_headers
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\_redirects
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\assets\icon-128.png
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\assets\icon-16.png
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\assets\icon-32.png
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\assets\icon-48.png
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\assets\icon.svg
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\index.html
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\shared\account.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\shared\crypto.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\shared\identity.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\shared\media-store.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\shared\storage.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\shared\webrtc.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\sidepanel\app.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\sidepanel\index.html
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\sidepanel\liquid-glass.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\sidepanel\premium-glass.css
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\sidepanel\styles.css
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\web-manifest.json
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.128-final\web\web\chrome-shim.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\manifest.json
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\assets\icon-128.png
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\assets\icon-16.png
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\assets\icon-32.png
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\assets\icon-48.png
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\assets\icon.svg
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\background\service-worker.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\offscreen\recorder.html
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\offscreen\recorder.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\permissions\camera.html
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\permissions\camera.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\permissions\microphone.css
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\permissions\microphone.html
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\permissions\microphone.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\shared\account.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\shared\crypto.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\shared\identity.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\shared\media-store.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\shared\storage.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\shared\webrtc.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\sidepanel\app.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\sidepanel\index.html
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\sidepanel\liquid-glass.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\sidepanel\premium-glass.css
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\extension\src\sidepanel\styles.css
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\_headers
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\_redirects
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\assets\icon-128.png
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\assets\icon-16.png
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\assets\icon-32.png
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\assets\icon-48.png
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\assets\icon.svg
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\index.html
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\shared\account.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\shared\crypto.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\shared\identity.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\shared\media-store.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\shared\storage.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\shared\webrtc.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\sidepanel\app.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\sidepanel\index.html
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\sidepanel\liquid-glass.js
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\sidepanel\premium-glass.css
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\sidepanel\styles.css
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\web-manifest.json
+outputs\bypassium-messenger-backup\test-artifacts\zip-audit-1.0.130-073059\web\web\chrome-shim.js
+outputs\bypassium-messenger-backup\tests\relay-performance.mjs
+outputs\bypassium-messenger-backup\tests\visual-premium.cjs
+outputs\bypassium-messenger-backup\visual-audit-after.json
+outputs\bypassium-messenger-backup\visual-audit-baseline.json
+outputs\bypassium-messenger-backup\visual-audit-expanded.json
+outputs\bypassium-messenger-backup\visual-audit-final-2.json
+outputs\bypassium-messenger-backup\visual-audit-final-3.json
+outputs\bypassium-messenger-backup\visual-audit-final.json
+outputs\bypassium-messenger-backup\visual-audit-release.json
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\arcade.css
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\arcade.js
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\glass-bridge-character.png
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\card-back.png
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-01.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-02.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-03.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-04.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-05.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-06.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-07.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-08.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-09.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-10.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-11.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-12.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-13.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-14.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-15.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-16.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-17.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-18.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-19.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-20.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\assets\memory\memory-21.jpg
+outputs\bypassium-messenger-src-5.5.17-backup\arcade\index.html
+outputs\bypassium-messenger-src-5.5.17-backup\assets\bcoin-icon.png
+outputs\bypassium-messenger-src-5.5.17-backup\assets\brand-icon.png
+outputs\bypassium-messenger-src-5.5.17-backup\assets\icon-128.png
+outputs\bypassium-messenger-src-5.5.17-backup\assets\icon-16.png
+outputs\bypassium-messenger-src-5.5.17-backup\assets\icon-32.png
+outputs\bypassium-messenger-src-5.5.17-backup\assets\icon-48.png
+outputs\bypassium-messenger-src-5.5.17-backup\background\service-worker.js
+outputs\bypassium-messenger-src-5.5.17-backup\offscreen\recorder.html
+outputs\bypassium-messenger-src-5.5.17-backup\offscreen\recorder.js
+outputs\bypassium-messenger-src-5.5.17-backup\permissions\camera.html
+outputs\bypassium-messenger-src-5.5.17-backup\permissions\camera.js
+outputs\bypassium-messenger-src-5.5.17-backup\permissions\microphone.css
+outputs\bypassium-messenger-src-5.5.17-backup\permissions\microphone.html
+outputs\bypassium-messenger-src-5.5.17-backup\permissions\microphone.js
+outputs\bypassium-messenger-src-5.5.17-backup\shared\account.js
+outputs\bypassium-messenger-src-5.5.17-backup\shared\crypto.js
+outputs\bypassium-messenger-src-5.5.17-backup\shared\identity.js
+outputs\bypassium-messenger-src-5.5.17-backup\shared\media-store.js
+outputs\bypassium-messenger-src-5.5.17-backup\shared\profile-picture.js
+outputs\bypassium-messenger-src-5.5.17-backup\shared\storage.js
+outputs\bypassium-messenger-src-5.5.17-backup\shared\webrtc.js
+outputs\bypassium-messenger-src-5.5.17-backup\sidepanel\app.js
+outputs\bypassium-messenger-src-5.5.17-backup\sidepanel\arcade-launcher.js
+outputs\bypassium-messenger-src-5.5.17-backup\sidepanel\index.html
+outputs\bypassium-messenger-src-5.5.17-backup\sidepanel\liquid-glass.js
+outputs\bypassium-messenger-src-5.5.17-backup\sidepanel\premium-glass.css
+outputs\bypassium-messenger-src-5.5.17-backup\sidepanel\professional-ui.css
+outputs\bypassium-messenger-src-5.5.17-backup\sidepanel\styles.css
+outputs\bypassium-messenger-src-5.5.17-backup\sidepanel\ui-primitives.js
+outputs\bypassium-messenger-unpacked-5.5.5\manifest.json
+outputs\bypassium-messenger-unpacked-5.5.5\src\assets\icon-128.png
+outputs\bypassium-messenger-unpacked-5.5.5\src\assets\icon-16.png
+outputs\bypassium-messenger-unpacked-5.5.5\src\assets\icon-32.png
+outputs\bypassium-messenger-unpacked-5.5.5\src\assets\icon-48.png
+outputs\bypassium-messenger-unpacked-5.5.5\src\assets\icon.svg
+outputs\bypassium-messenger-unpacked-5.5.5\src\background\service-worker.js
+outputs\bypassium-messenger-unpacked-5.5.5\src\offscreen\recorder.html
+outputs\bypassium-messenger-unpacked-5.5.5\src\offscreen\recorder.js
+outputs\bypassium-messenger-unpacked-5.5.5\src\permissions\camera.html
+outputs\bypassium-messenger-unpacked-5.5.5\src\permissions\camera.js
+outputs\bypassium-messenger-unpacked-5.5.5\src\permissions\microphone.css
+outputs\bypassium-messenger-unpacked-5.5.5\src\permissions\microphone.html
+outputs\bypassium-messenger-unpacked-5.5.5\src\permissions\microphone.js
+outputs\bypassium-messenger-unpacked-5.5.5\src\shared\account.js
+outputs\bypassium-messenger-unpacked-5.5.5\src\shared\crypto.js
+outputs\bypassium-messenger-unpacked-5.5.5\src\shared\identity.js
+outputs\bypassium-messenger-unpacked-5.5.5\src\shared\media-store.js
+outputs\bypassium-messenger-unpacked-5.5.5\src\shared\storage.js
+outputs\bypassium-messenger-unpacked-5.5.5\src\shared\webrtc.js
+outputs\bypassium-messenger-unpacked-5.5.5\src\sidepanel\app.js
+outputs\bypassium-messenger-unpacked-5.5.5\src\sidepanel\index.html
+outputs\bypassium-messenger-unpacked-5.5.5\src\sidepanel\liquid-glass.js
+outputs\bypassium-messenger-unpacked-5.5.5\src\sidepanel\premium-glass.css
+outputs\bypassium-messenger-unpacked-5.5.5\src\sidepanel\styles.css
+outputs\bypassium-messenger.zip
+outputs\bypassium-messenger\animation-overhaul-audit.json
+outputs\bypassium-messenger\build.ps1
+outputs\bypassium-messenger\bypassium-chrome-store-assets.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.48-message-dates.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.49-refresh-reliability.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.50-search-badges-video.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.51-account-content-first.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.52-flat-colour-account.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.53-profile-picture-choice.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.54-compact-account-menu.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.55-deletion-round-avatars.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.56-dialog-search-fast-reels.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.57-theme-layout-polish.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.58-server-status-control.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.59-deletion-repair.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.60-persistent-loading.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.61-auth-gate.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.62-deletion-history.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.63-profile-page.zip
+outputs\bypassium-messenger\dist\bypassium-messenger-5.5.64-touch-controls.zip
+outputs\bypassium-messenger\hover-light-results.json
+outputs\bypassium-messenger\liquid-steps-3-4-results.json
+outputs\bypassium-messenger\manifest.json
+outputs\bypassium-messenger\README.md
+outputs\bypassium-messenger\src\arcade\arcade.css
+outputs\bypassium-messenger\src\arcade\arcade.js
